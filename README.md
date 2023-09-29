@@ -1,6 +1,18 @@
-# GifExpertApp
+<h1 align="center"> Gif Expert | React App </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-f1e05a">
+  <img src="https://img.shields.io/badge/status-close-ff3333">
+</p>
+
+* Demo: [Gif Expert](https://jorgelmunozp.github.io/react-gift-expert/)
+
+***
+
+### Preview
+![Gift expert](/docs/gif-expert.png)
+
+***
 
 ## Available Scripts
 
