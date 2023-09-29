@@ -11,7 +11,7 @@
 ***
 
 ### Preview
-![Gif expert](/docs/gif-expert.png)
+![Preview](/docs/preview.png)
 
 ***
 
