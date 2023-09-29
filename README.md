@@ -32,6 +32,6 @@ This project consists of the development of a Gif browser application
 
 ## License
 
-Hola mundo is [MIT licensed](/docs/LICENSE.txt).
+Gif Expert is [MIT licensed](/docs/LICENSE.txt).
 
-The Hola mundo documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
+The Gif Expert documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
