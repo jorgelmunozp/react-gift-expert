@@ -10,7 +10,7 @@
 ***
 
 ### Preview
-![Gift expert](/docs/gif-expert.png)
+![Gif expert](/docs/gif-expert.png)
 
 ***
 
