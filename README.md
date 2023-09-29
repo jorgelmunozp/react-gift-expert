@@ -29,3 +29,9 @@ This project consists of the development of a Gif browser application
 
 | [<img src="https://avatars.githubusercontent.com/u/101136356?s=400&v=4" width=115><br><sub>Jorge Luis Muñoz</sub>](https://github.com/jorgelmunozp) | [<img src="https://avatars.githubusercontent.com/u/109540980?v=4" width=115><br><sub>Hárgomo</sub>](https://github.com/hargomo) |
 | :---: | :---: |
+
+## License
+
+Hola mundo is [MIT licensed](/docs/LICENSE.txt).
+
+The Hola mundo documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
