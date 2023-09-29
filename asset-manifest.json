@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jorgelmunozp/react-gift-expert.git/static/css/main.5184a0a9.css",
+    "main.js": "/jorgelmunozp/react-gift-expert.git/static/js/main.47fa9d69.js",
+    "index.html": "/jorgelmunozp/react-gift-expert.git/index.html",
+    "main.5184a0a9.css.map": "/jorgelmunozp/react-gift-expert.git/static/css/main.5184a0a9.css.map",
+    "main.47fa9d69.js.map": "/jorgelmunozp/react-gift-expert.git/static/js/main.47fa9d69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5184a0a9.css",
+    "static/js/main.47fa9d69.js"
+  ]
+}
