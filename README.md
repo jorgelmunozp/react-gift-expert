@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
+  <img src="https://img.shields.io/badge/API-563d7c">
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
 
@@ -20,6 +21,7 @@
 This project consists of the development of a Gif browser application 
 
 * It was developed with JavaScript, Html, and Css in React Js
++ Consume an API from https://api.giphy.com
 
 ***
 
